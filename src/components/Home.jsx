@@ -66,7 +66,7 @@ const Home = () => {
             </div>
           ))
         ) : (
-          <h2 className="text-center col-span-3 text-xl">No Recipes Found</h2>
+          <h2 className="text-center col-span-3 text-xl">Loading...</h2>
         )}
       </div>
     </div>
